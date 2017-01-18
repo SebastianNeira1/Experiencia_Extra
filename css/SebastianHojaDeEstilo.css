@@ -1,0 +1,13 @@
+body {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	background: none;
+}
+
+.full {
+  background: url(http://www.nocturnar.com/imagenes/wallpapers-hd-paisajes-paisajes-para-fondo-de-pantalla-hd.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
